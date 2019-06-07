@@ -1,0 +1,45 @@
+﻿* 1
+   * Plants stressed, not recovering with return of moisture. 
+   * Can we compare “healthier” distal ferns to more unhealthy ones to get a sense of natural life cycles of ferns from year to year -->Do flourescence values naturally decline over the life cycle of a particular frond? 
+   * Differences in cavitation between ferns? 
+* 2
+   * PS in year 2 is same as year 1, for whole plant, because fronds grow new -- but PS decreases after first growth of an individual frond
+   * Tardally deciduous -- fronds eventually die. 
+   * Fern in trouble if new croziers don’t form in spring
+   * Twisted new fronds = sign of die off? Maybe not. 
+* 3
+   * Sites on Cougar Mountain: old mine spoil
+   * Area colonized by alder, now maple, no conifer
+* 4
+* 5
+   * Odds of survival are 5x higher within 9ft of tree or CWD
+* 6
+   * Is death gradual or sudden?
+   * A couple plots have shown rebound -- have fronds per fern continued to decline in those 2 plots?
+* 7
+* 8
+   * Die off in kitsap -- Indianola
+   * Animal trails, probably not purely mechanical cause -- vectors 
+   * Animals might just like walking in clear areas
+   * Deer, coyote, bear
+   * Soil transmission: no discernable results yet
+
+
+
+
+Possible biotic causes:
+* Soilborne pathogen
+* Vascular wilt pathogen with vector
+* Does age/size of fern rhizome mattter?
+* Is organism already present as endophyte and stress makes it become pathogenic?
+* Can we characterize disease agent organism in water?
+* Phytophthera? Root disease eats away in the winter, but symptoms are seen in the summer in drought circumstances
+* Separate greenhouses? Maybe vector is aboveground
+
+
+
+
+Illumina sequencing: extracting DNA from plant tissue, use PCR to magnify specific region of DNA, … you could potentially find an OTU associated with sick ferns
+
+
+Nested sampling protocol
